@@ -1,0 +1,35 @@
+/**
+ * Feuille de style pour les Charms du navigateur WEB
+ *
+ * @author Pierre HUBERT
+ */
+
+
+/**
+ * General styles
+ */
+#docCharm {
+	background-color: #FFFFFF;
+	color: black;
+	padding: 20px;
+	padding-right: 40px;
+	min-width: 300px;
+	border-left: 1px #bab4b4 solid;
+}
+
+#docCharm #docCharmName img {
+	width: 64px;
+	vertical-align: middle;
+}
+
+#docCharm .mainActionsButtons {
+	margin-top: 30px;
+	text-align: center;
+}
+
+/**
+ * Boutons disposant d'un style spécique
+ */
+ .forceDownloadLink {
+ 	width: 100%;
+ }

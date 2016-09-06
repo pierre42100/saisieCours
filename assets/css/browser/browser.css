@@ -1,0 +1,37 @@
+/**
+ *	Feuille de style du navigateur de fichiers
+ *
+ *	@author Pierre HUBERT
+ */
+
+/**
+ *	Barre de menu du navigateur
+ */
+.menuBarButtonUP{
+	cursor: pointer;
+}
+
+/**
+ *	Bouton pour plus d'options
+ */
+ .more-option-button {
+	float: right;
+	border: 1px solid grey;
+	border-radius: 14px;
+	padding: 2px;
+	z-index: 2;
+}
+
+.more-option-button:hover {
+	background-color: #0072c6;
+	color: #FFFFFF;
+}
+
+.tile-inner {
+	width: 250px;
+	height: 52px;
+	margin-top: -9px;
+	padding-top: 10px;
+	margin-left: -49px;
+	padding-left: 49px;
+}

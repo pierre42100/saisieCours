@@ -1,0 +1,44 @@
+/**
+ * Feuille de style du service 
+ *
+ * @author Pierre HUBERT
+ */
+
+/* Erreurs */
+.message_erreur {
+	color: #ce352c;
+	padding: 10px;
+	border: 1px #ce352c solid;
+	font-size: 120%;
+	margin: 10px;
+}
+
+
+/* Données - Ne pas afficher */
+datas {
+	display: none;
+}
+
+/* Boîtes de dialogue - général */
+.dialog {
+	z-index: 1060 !important;
+}
+
+.buttonsOnRight {
+	text-align: right;
+	padding-top: 15px
+}
+
+/**
+ *	Boîte de dialogue de saisie de texte
+ */
+#inputTextDialog .input-control {
+	width: 100%;
+}
+
+/**
+ *	Barres de menu
+ */
+.place-center {
+	left: 10px;
+}

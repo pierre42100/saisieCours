@@ -1,0 +1,13 @@
+/**
+ *	Feuille de style pour l'intégration de Géogebra
+ *
+ *	@author Pierre HUBERT
+ */
+body {
+	background-color: #000000;
+}
+
+iframe {
+	border: medium none;
+	width: 100%;
+}

@@ -1,0 +1,21 @@
+/**
+ *	Feuille de style pour les erreurs 404
+ *
+ *	@author Pierre HUBERT
+ */
+
+.Contener404 {
+	text-align: center;
+	width: 500px;
+	margin: auto;
+	border: 1px solid grey;
+	border-radius: 10px;
+	position: relative;
+	top: 20px;
+	padding: 5px;
+}
+
+body {
+	background-color: #1BA1E2;
+	color: #FFFFFF;
+}
